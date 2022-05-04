@@ -371,6 +371,7 @@ foreignObject{
 .services__inner {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 45px;
 }
 .services__box-list {
     width: 620px;
